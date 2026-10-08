@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+# Virtualenv
+.venv/
+venv/
+# Secrets / local env
+.env
+.env.*
+!.env.example
+# Caches / test artifacts
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+# Data, weights, checkpoints, runs, logs (do not upload)
+models/
+data/
+datasets/
+checkpoints/
+runs/
+logs/
+*.log
+.hf-cache/
+# Model weight formats
+*.gguf
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.onnx
+# Local binaries (re-downloaded, not committed)
+*.dll
+*.exe
+*.so
+*.dylib
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
