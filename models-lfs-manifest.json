@@ -1,0 +1,26 @@
+{
+  "split_files": [
+    {
+      "path": "models/qwen3-1.7b-f16.gguf",
+      "size": 4069679488,
+      "sha256": "23fd8d5b3b5458734620e03d0874167f2caf05616e2f517a7a279707a8c71249",
+      "parts": [
+        "models/qwen3-1.7b-f16.gguf.part000",
+        "models/qwen3-1.7b-f16.gguf.part001",
+        "models/qwen3-1.7b-f16.gguf.part002",
+        "models/qwen3-1.7b-f16.gguf.part003"
+      ]
+    },
+    {
+      "path": ".hf-cache/hub/models--Qwen--Qwen3-1.7B/snapshots/70d244cc86ccca08cf5af4e1e306ecf908b1ad5e/model-00001-of-00002.safetensors",
+      "size": 3441185608,
+      "sha256": "169ad53ec313c3a34b06c0809216e4fc072cce444a5d4ff2b59690d064130ed5",
+      "parts": [
+        ".hf-cache/hub/models--Qwen--Qwen3-1.7B/snapshots/70d244cc86ccca08cf5af4e1e306ecf908b1ad5e/model-00001-of-00002.safetensors.part000",
+        ".hf-cache/hub/models--Qwen--Qwen3-1.7B/snapshots/70d244cc86ccca08cf5af4e1e306ecf908b1ad5e/model-00001-of-00002.safetensors.part001",
+        ".hf-cache/hub/models--Qwen--Qwen3-1.7B/snapshots/70d244cc86ccca08cf5af4e1e306ecf908b1ad5e/model-00001-of-00002.safetensors.part002",
+        ".hf-cache/hub/models--Qwen--Qwen3-1.7B/snapshots/70d244cc86ccca08cf5af4e1e306ecf908b1ad5e/model-00001-of-00002.safetensors.part003"
+      ]
+    }
+  ]
+}
